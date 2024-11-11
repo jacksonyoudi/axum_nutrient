@@ -1,2 +1,2 @@
 [workspace]
-members = ["anyhow-error-response", "auto-reload"]
+members = ["anyhow-error-response", "auto-reload", "chat"]
